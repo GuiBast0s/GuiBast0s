@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na PUC-GO e atualmente estagiário como desenvolvedor full stack.
+ Estudante de Análise e Desenvolvimento de Sistemas na PUC-GO e atualmente estagiário como desenvolvedor full stack.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebastos-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gilhermeborgui@gmail.com)
